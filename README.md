@@ -1,0 +1,1 @@
+I will be creating the stock picker basic project for The Odin Project using my knowledge of the Ruby programming language.
